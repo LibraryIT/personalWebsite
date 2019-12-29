@@ -34,7 +34,7 @@ plugins:
 
 # Collections
 collections:
-  - presentations
+   presentations:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
