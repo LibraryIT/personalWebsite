@@ -25,7 +25,7 @@ description:  My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  LibraryIT
+github_username:  MikePaulmeno
 
 # Build settings
 theme: minima
