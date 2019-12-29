@@ -24,8 +24,8 @@ title: Michael Paulmeno's web portal
 description:  My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  MikePaulmeno
+twitter_username: MikePaulmeno
+github_username:  LibraryIT
 
 # Build settings
 theme: minima
