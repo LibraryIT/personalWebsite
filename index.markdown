@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-twoColumn
+title: Home
 ---
 
 ## Michael Paulmeno.com: A Web Portal for All Things Related to Michael J. Paulmeno
