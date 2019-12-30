@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Home
-permalink: /Home/
 ---
 
 ## Michael Paulmeno.com: A Web Portal for All Things Related to Michael J. Paulmeno
