@@ -1,8 +1,16 @@
-<nav>
-	{% for item in site.data.navigation %}
+<header class="site-header" role="banner">
 
-	<a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+	<div class="wrapper">
 
-	{% endfor %}
+		<nav class="site-nav">
+			{% for item in site.data.navigation %}
 
-</nav>
+			<a class="site-title" href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+
+			{% endfor %}
+
+		</nav>
+
+	</div>
+
+</header>
