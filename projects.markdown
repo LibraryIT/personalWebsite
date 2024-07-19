@@ -3,7 +3,6 @@ layout: default
 title: Projects
 permalink: /Projects/
 ---
-Below is a selection of projects I have undertaken.  For my complete portfolio, visit [my Spiceworks portfolio](https://community.spiceworks.com/people/mpaulmeno)
 
 ## [Roberts-LaForge Library Home Page](http://www.deltastate.edu/library/)
 
